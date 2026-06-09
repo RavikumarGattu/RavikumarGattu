@@ -61,7 +61,7 @@ I am a Data Scientist with **5+ years of experience** at the intersection of **e
 🧪 52% CTR lift    → Proactive navigation experiment (UNC Health)
 🔍 30% drop-off    → Discovered in Health & Beauty funnel (Kroger / OVS)
 🔗 5 data sources  → Omnichannel identity stitching (web + app + in-store + call center + email)
-📊 3M+ sessions    → Analyzed monthly in Adobe CJA
+📊 100M+ sessions    → Analyzed monthly in Adobe CJA
 ```
 
 ---
